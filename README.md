@@ -1,7 +1,7 @@
 # docpack
 
 [![crates.io](https://img.shields.io/crates/v/docpack.svg)](https://crates.io/crates/docpack)
-[![homebrew](https://img.shields.io/badge/homebrew-acture/tools-blue)](https://github.com/Acture/homebrew-tools)
+[![homebrew](https://img.shields.io/badge/homebrew-acture%2Fac-blue)](https://github.com/Acture/homebrew-ac)
 [![CI](https://github.com/acture/docpack/actions/workflows/ci.yml/badge.svg)](https://github.com/acture/docpack/actions/workflows/ci.yml)
 [![Release](https://github.com/acture/docpack/actions/workflows/release.yml/badge.svg)](https://github.com/acture/docpack/actions/workflows/release.yml)
 [![License: AGPL v3](https://img.shields.io/badge/license-AGPL--3.0-blue)](LICENSE)
@@ -51,8 +51,8 @@ cargo install docpack
 Or via Homebrew:
 
 ```bash
-brew tap acture/tools
-brew install docpack
+brew tap acture/ac
+brew install acture/ac/docpack
 ```
 
 ### Emit to stdout
