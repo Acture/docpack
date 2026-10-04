@@ -12,7 +12,7 @@ env:
   BIN_NAME: docpack
   FORMULA_NAME: docpack
   LEGACY_FORMULA_NAME: d2typ
-  TAP_REPOSITORY: Acture/homebrew-tools
+  TAP_REPOSITORY: Acture/homebrew-ac
 
 concurrency:
   group: release-${{ github.ref }}
